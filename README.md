@@ -1,0 +1,2 @@
+# SSNCopter
+Manually controlled quadcopter
